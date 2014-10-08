@@ -1,0 +1,203 @@
+Hohmbrewer 1.0 by john Hohm
+6 june 2014
+
+to execute program:
+navigate to the directory that contains the folder "hohmbrewer"
+run "python hohmbrewer"
+program will run through the creation of a beer and save results as a text file
+
+
+
+
+Types of Grain acepted by hohmbrewer
+commonly used:
+pale malt
+wheat
+chocolate malt
+sucrose
+dextrose
+carapils
+caraamber
+caraaroma
+munich
+vienna
+flaked corn
+
+full list:
+'acid malt',
+'amber dry extract',
+'amber liquid extract',
+'amber malt',
+'aromatic malt',
+'barley hulls',
+'barley flaked',
+'barley raw',
+'barley torrefied',
+'biscuit malt',
+'black patent',
+'black barley (stout)',
+'brown malt',
+'brown sugar dark',
+'brown sugar light',
+'brumalt',
+'candi sugar - amber',
+'candi sugar - clear',
+'candi sugar - dark',
+'cane (beet) sugar',
+'carapils',
+'caraamber',
+'carafoam',
+'crystal malt 10l',
+'crystal malt 20l',
+'crystal malt - 30l',
+'crystal malt 40l',
+'crystal malt 60l',
+'crystal malt 80l',
+'crystal malt 120l',
+'caramunich malt',
+'carared',
+'caravienne malt',
+'chocolate malt',
+'chocolate malt',
+'dextrose',
+'corn syrup',
+'flaked corn',
+'dark dry extract',
+'dark liquid extract',
+'dememera sugar',
+'extra light dry extract',
+'grits',
+'honey',
+'invert sugar',
+'light dry extract',
+'maple syrup',
+'melanoiden malt',
+'mild malt',
+'lactose',
+'molasses',
+'munich',
+'munich - 10l',
+'munich malt - 20l',
+'oats',
+'oats malted',
+'pale liquid extract',
+'pale malt (2 row) bel',
+'pale malt',
+'pale malt (2 row) us',
+'pale malt (6 row) us',
+'peat smoked malt',
+'pilsner (2 row) bel',
+'pilsner (2 row) ger',
+'pilsner (2 row) uk',
+'pilsner liquid extract',
+'rice extract syrup',
+'rice hulls',
+'rice flaked',
+'roasted barley',
+'rye malt',
+'rye flaked',
+'smoked malt',
+'special b',
+'special roast',
+'sucrose',
+'toasted malt',
+'turbinado',
+'victory malt',
+'vienna',
+'wheat dry extract',
+'wheat liquid extract',
+'wheat',
+'wheat malt, dark',
+'wheat malt ger',
+'wheat flaked',
+'wheat roasted',
+'wheat torrified',
+'white wheat malt',
+'caraaroma'
+
+
+Hop names accepted by hohmbrewer
+
+admiral
+ahtanum
+amarillo
+aquila
+b. c. goldings
+banner
+bramling cross 
+brewers gold
+bullion
+cascade
+centennial
+challenger
+chinook
+citra
+cluster
+columbus
+comet
+crystal
+domesic hallertau
+east kent goldings
+eroica
+first gold
+fuggles
+galena
+glacier
+goldings
+hallertau mittelfruh
+hallertau hersbrucker
+herald
+hersbrucker
+horizon
+huller bitterer
+kent goldings
+liberty
+lublin
+magnum
+millenium
+mount hood
+mount rainier
+motueka
+nelson sauvin
+newport
+northdown
+northern brewer
+nugget
+olympic
+omega
+orion
+pacific gem
+perle
+phoenix
+pioneer
+pride of ringwood
+progress
+record
+saaz
+santiam
+satus
+simcoe
+sorachi ace
+spalt
+sterling
+sticklebract
+strisselspalt
+styrian goldings
+super alpha
+super styrians
+summit
+talisman
+target
+tettnanger
+tomahawk
+ultra
+vanguard
+warrior
+whitbread golding
+willamette
+wye target
+yamhill goldings
+yakima cluster
+yeoman
+zenith
+zeus
